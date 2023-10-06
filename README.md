@@ -6,7 +6,7 @@ Bu repo, Node.js ve Express.js kullanarak basit bir e-ticaret sitesinin RESTful 
 
 1. `git clone https://github.com/VenoMexx/NodeJS-RESTful-Ecommerce-Example.git`
 2. `cd NodeJS-RESTful-Ecommerce-Example`
-3. `npm install`
+3. `npm i express`
 4. `node app.js`
 
 ## API Endpoints
